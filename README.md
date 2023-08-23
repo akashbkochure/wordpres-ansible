@@ -1,4 +1,4 @@
-# Brainstorm Force
+# wordpres-ansible
 
 Modern and secure WordPress (LEMP) development and deployment workflow. (See [features](https://roots.io/trellis/docs/installation/#why-use-trellis) and [back story](#back-story-))
 
@@ -57,5 +57,3 @@ Before I decided to use Trellis, I tried starting from scratch but it was a vast
 - Finally, I found Trellis. It has Trellis-CLI, a command-line interface that made it easy to provision and deploy servers. It also have many features, such as Nginx, PHP-FPM, MariaDB, Redis, Let’s Encrypt, Fail2ban, Composer, WP-CLI, MailHog, and more. With great documentation and community support.
 
 Trellis is the most complete, robust and community powered solution available.
-# wordpres-ansible-role
-# wordpres-ansible
